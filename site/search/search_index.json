@@ -2,23 +2,33 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Tea-Ayudo-Docs\n\n\nBienvenidos a Tea-Ayudo Docs!\n\n\nAc\u00e1 podr\u00e1n encontrar documentos de ayuda para poder lograr entender y saber como prepararse para enfrentar el Autismo, la idea es hacerlo mas sencillo y con apoyo.\n\n\n\nComo aportar.\n\n\nSi encuentras que algo publicado, sea material o archivos y te das cuenta que est\u00e1n err\u00f3neos, puedes ayudar a corregirlos o tambi\u00e9n puedes aportar cosas nuevas.\n\n\n\nNuestra idea es aportar:\n\n\n\n\nMaterial de texto descargable: Libros, art\u00edculos, Archivos WORD, texto, etc.\n\n\nPictogramas o Im\u00e1genes: Cartas, dibujos, juegos, material para colorear, etc.\n\n\nJuegos o programas: Programas para computador, juegos Android, PC, o otras plataformas.\n\n\n\n\nPara los aportes debes estar registrado en nuestra web y enviarnos un email a ayudocontactotea@gmail.com, de esta manera podemos ponernos en contacto y agradecer p\u00fablicamente la ayuda. \n\n\nColaboradores.\n\n\nAgradeciminetos a:\n\n\n\nTienes nuevas ideas?.\n\n\nEscribenos a nuestro mail, y nos comentas en que podemos mejorar o si te gustar\u00eda aportar o pertenecer al staff de nuestra aplicaci\u00f3n web.\n\n\nMAIL: ayudocontactotea@gmail.com.", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/#tea-ayudo-docs", 
+            "text": "", 
+            "title": "Tea-Ayudo-Docs"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "location": "/#bienvenidos-a-tea-ayudo-docs", 
+            "text": "Ac\u00e1 podr\u00e1n encontrar documentos de ayuda para poder lograr entender y saber como prepararse para enfrentar el Autismo, la idea es hacerlo mas sencillo y con apoyo.", 
+            "title": "Bienvenidos a Tea-Ayudo Docs!"
         }, 
         {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/#como-aportar", 
+            "text": "Si encuentras que algo publicado, sea material o archivos y te das cuenta que est\u00e1n err\u00f3neos, puedes ayudar a corregirlos o tambi\u00e9n puedes aportar cosas nuevas.  Nuestra idea es aportar:   Material de texto descargable: Libros, art\u00edculos, Archivos WORD, texto, etc.  Pictogramas o Im\u00e1genes: Cartas, dibujos, juegos, material para colorear, etc.  Juegos o programas: Programas para computador, juegos Android, PC, o otras plataformas.   Para los aportes debes estar registrado en nuestra web y enviarnos un email a ayudocontactotea@gmail.com, de esta manera podemos ponernos en contacto y agradecer p\u00fablicamente la ayuda.", 
+            "title": "Como aportar."
+        }, 
+        {
+            "location": "/#colaboradores", 
+            "text": "Agradeciminetos a:", 
+            "title": "Colaboradores."
+        }, 
+        {
+            "location": "/#tienes-nuevas-ideas", 
+            "text": "Escribenos a nuestro mail, y nos comentas en que podemos mejorar o si te gustar\u00eda aportar o pertenecer al staff de nuestra aplicaci\u00f3n web.  MAIL: ayudocontactotea@gmail.com.", 
+            "title": "Tienes nuevas ideas?."
         }, 
         {
             "location": "/aportes/", 
