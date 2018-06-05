@@ -2,11 +2,11 @@
 
 
 
-## Bienvenidos a Tea-Ayudo Docs!
+### Bienvenidos a Tea-Ayudo Docs!
 
 	Acá podrán encontrar documentos de ayuda para poder lograr entender y saber como prepararse para enfrentar el Autismo, la idea es hacerlo mas sencillo y con apoyo.
 
-## Como aportar.
+### Como aportar.
 
     Si encuentras que algo publicado, sea material o archivos y te das cuenta que están erróneos, puedes ayudar a corregirlos o también puedes aportar cosas nuevas.
 
@@ -18,7 +18,7 @@ Nuestra idea es aportar:
 
 Para los aportes debes estar registrado en nuestra web y enviarnos un email a ayudocontactotea@gmail.com, de esta manera podemos ponernos en contacto y agradecer públicamente la ayuda. 
 
-## Colaboradores.
+### Colaboradores.
 
 	Agradeciminetos a: 
 
