@@ -1,1 +1,6 @@
 site_name: Tea-Ayudo-Docs
+pages:
+    - Home: index.md
+    - Aportes: aportes.md
+
+theme: readthedocs
