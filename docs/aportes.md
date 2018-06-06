@@ -1,4 +1,4 @@
-# Zona de descargas de los aportes de los usuarios
+# Zona descargas aportes de los usuarios
 
 ## Descarga de libros y textos
 
