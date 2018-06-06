@@ -20,7 +20,7 @@ Para los aportes debes estar registrado en nuestra web y enviarnos un email a ay
 
 ### Colaboradores.
 
-	Agradeciminetos a: 
+	Agradecimientos a: 
 
 
 ### Tienes nuevas ideas?.
